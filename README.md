@@ -103,6 +103,3 @@ Siga os passos abaixo para executar o projeto localmente.
 ## Contato
 [Link para o repositório do GitHub](https://github.com/BragaMPedro/Dnd-check-logger)
 Pedro Braga Magalhães - [pedrobmagalhaes95@gmai.com](mailto:pedrobmagalhaes95@gmail.com)
-
-
-

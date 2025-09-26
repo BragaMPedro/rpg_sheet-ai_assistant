@@ -1,5 +1,4 @@
 
-// FIX: Added 'None' member to ClasseSanguinea to resolve reference errors. This member represents a state of no class.
 export enum ClasseSanguinea {
   None = "Nenhuma",
   Bruto = "Bruto (A+)",
