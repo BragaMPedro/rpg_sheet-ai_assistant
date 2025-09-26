@@ -1,0 +1,5 @@
+{
+  "name": "Vozes da Minha Cabeça - Ficha de Personagem",
+  "description": "Uma ficha de personagem dinâmica e interativa para o RPG de mesa 'Vozes da Minha Cabeça'. A ficha se atualiza automaticamente com base na classe e nível do personagem, facilitando o gerenciamento de habilidades, perícias e condições.",
+  "requestFramePermissions": []
+}
